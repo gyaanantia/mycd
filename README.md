@@ -1,6 +1,6 @@
 This repository contains everything needed to run the 'cd' simulator.
 
-After cloning the repo:
+After cloning the repo by running `git clone https://github.com/gyaanantia/mycd.git`:
 
 To use the Python file, cd into the repo folder and use `python3 mycd.py <arg1> <arg2>`.
 The Python file has built in tests, so if it runs, all the tests have passed.
